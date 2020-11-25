@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\bin\Debug\netcoreapp3.1\04.MethodsForValidatingData.exe
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\bin\Debug\netcoreapp3.1\04.MethodsForValidatingData.deps.json
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\bin\Debug\netcoreapp3.1\04.MethodsForValidatingData.runtimeconfig.json
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\bin\Debug\netcoreapp3.1\04.MethodsForValidatingData.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\bin\Debug\netcoreapp3.1\04.MethodsForValidatingData.dll
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\bin\Debug\netcoreapp3.1\04.MethodsForValidatingData.pdb
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.AssemblyInfo.cs
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.dll
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.pdb
+C:\Users\Bla\source\repos\Methods\04.MethodsForValidatingData\obj\Debug\netcoreapp3.1\04.MethodsForValidatingData.genruntimeconfig.cache
